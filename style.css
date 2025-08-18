@@ -1,0 +1,51 @@
+* {
+    font-size: x-large;
+    text-align: center;
+    background-color: bisque;
+}
+
+#main {
+    background-color: bisque;
+    width: 80%;
+}
+
+#first-month {
+    background-color: rgb(194, 150, 101);
+    align-content: end;
+}
+
+#subtitle {
+    background-color: rgb(228, 195, 152);
+    color: rgb(180, 123, 82);
+    font-size: 160%;
+    width: 100%;
+    font-family: "Brush Script MT", cursive;
+}
+
+h1 {
+    background-color: rgb(228, 195, 152);
+    color: rgb(180, 123, 82);
+    font-size: 260%;
+    width: 100%;
+    font-family: "Brush Script MT", cursive;
+}
+
+img {
+    width: 200px;
+}
+
+p.first-style {
+    background-color: blanchedalmond;
+    color: brown;
+}
+
+p.second-style {
+    background-color: brown;
+    color: blanchedalmond;
+}
+
+strong.highlight {
+    text-decoration-line: underline;
+    text-decoration-color: brown;
+    color: brown;
+}
